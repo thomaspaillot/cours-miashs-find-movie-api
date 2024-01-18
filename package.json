@@ -1,0 +1,19 @@
+{
+  "name": "cours-miashs-find-movie-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An API to get a movie from a title",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thomas Paillot",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
